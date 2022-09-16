@@ -47,7 +47,7 @@ nav{
     height: auto;
     margin-top: 4.8%;
     font-size: 14px;
-    padding: 5px 5px 10px 5px;
+    padding: 5px 5px 5px 5px;
     height: 30px;
     background: rgb(0, 0, 0);
     display: flex;
@@ -57,7 +57,7 @@ nav a{
     text-decoration: underline;
     color: rgb(255, 255, 255);
     border-right: 2px solid rgb(255, 255, 255);
-    padding: 0px 10px 0px 10px;
+    padding: 0px 5px 0px 10px;
     text-align: center;
     font-weight: bold;
 }
