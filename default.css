@@ -77,19 +77,19 @@ nav a:hover{
     border-bottom: solid 1px black;
     display: flow-root;
     background-color: white;
-    padding: 1% 1% 1% 1%;
+    padding: 1% 5% 1% 5%;
 }
 
 #Logos #LogoUTN{
-    width: 20%;
-    height: 15%;
+    width: 10%;
+    height: 7.5%;
     padding: 1% 0.5% 1% 0.5%;
     float: left;
 }
 
 #Logos #LogoCR{
-    width: 30%;
-    height: 15%;
+    width: 15%;
+    height: 7.5%;
     padding: 1% 0.5% 1% 0.5%;
     float: right;
 }
