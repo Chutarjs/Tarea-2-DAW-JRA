@@ -1,0 +1,165 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: url('img/fondonavegador.jpg');
+    font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;
+    /*El color siempre es para la fuente*/
+    line-height: 18px;
+}
+
+#Principal{
+    background-color: white;
+    margin-top: 50px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#Principal header{
+    height: 100px;
+    display: inline;
+}    
+
+#Principal header h1{
+    font-size: 40px;
+    letter-spacing: -1px;
+    padding-top: 40px;
+    padding-left: 2%;
+    padding-right: 2%;
+    color: black;
+}
+
+#Principal header #Foto{
+    float: right;
+    width: 90px;
+    margin-top: 0.5%;
+    margin-right: 1%;
+}
+
+h1{
+    color: black;
+}
+
+nav{
+    height: auto;
+    margin-top: 4.8%;
+    font-size: 14px;
+    padding: 5px 10px 10px 10px;
+    height: 30px;
+    background: rgb(0, 0, 0);
+    display: flex;
+}
+
+nav a{
+    text-decoration: underline;
+    color: rgb(255, 255, 255);
+    border-right: 2px solid rgb(255, 255, 255);
+    padding: 0px 10px 0px 10px;
+    text-align: center;
+    font-weight: bold;
+}
+
+nav a.last{
+    border-right: 0px;
+}
+
+nav a:hover{
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    font-size: 18px;
+}
+
+#Logos{
+    border-bottom: solid 1px black;
+    display: flow-root;
+    background-color: white;
+    padding: 1% 1% 1% 1%;
+}
+
+#Logos #LogoUTN{
+    width: 30%;
+    height: 20%;
+    padding: 1% 0.5% 1% 0.5%;
+    float: left;
+}
+
+#Logos #LogoCR{
+    width: 40%;
+    height: 20%;
+    padding: 1% 0.5% 1% 0.5%;
+    float: right;
+}
+
+#Lista{
+    width: 50%;
+    height: 22%;
+    padding-bottom: 2%;
+    background-color: white;
+    float: left;
+    padding-left: 5px;
+}
+
+#Lista p{
+    font-size: 20px;
+    padding-bottom: 5px;
+    font-weight: bold;
+}
+
+#Lista ul li{
+    list-style: none;
+
+}
+
+article{
+    width: 50%;
+    padding-right: 5px;
+    height: 22%;
+    float: right;
+    padding-bottom: 2%;
+    background-color: white;
+    text-align: left;
+}
+
+article h3{ 
+    font-weight: bold;
+    padding-bottom: 5px;
+    font-size: 20px;
+}
+
+#Tabla{
+    border-top: solid 1px black;  
+    color: black;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 30px;
+}
+
+#Tabla caption{
+    font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    padding-bottom: 5px;
+}
+
+footer{
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: gainsboro;
+    width: 100%;
+    clear: both;
+    height: 60px;
+    border-top: double;
+    padding-top: 15px;
+}
+
+footer #Foot1{
+    float: left;
+}
+
+footer #Foot2{
+    float: right;
+}
