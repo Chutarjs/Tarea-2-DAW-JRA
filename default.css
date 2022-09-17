@@ -19,7 +19,7 @@ body{
 }
 
 #Principal header{
-    height: 90px;
+    height: 50px;
     display: inline;
 }    
 
@@ -72,15 +72,15 @@ nav a:hover{
 }
 
 #Logos #LogoUTN{
-    width: 85px;
-    height: 90px;
+    width: 120px;
+    height: 120px;
     padding: 1% 0.5% 1% 0.5%;
     float: right;
 }
 
 #Logos #Foto{
-    width: 90px;
-    height: 90px;
+    width: 120px;
+    height: 120px;
     padding: 1% 0.5% 1% 0.5%;
     float: left;
 }
