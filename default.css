@@ -80,15 +80,15 @@ nav a:hover{
 }
 
 #Logos #LogoUTN{
-    width: 4%;
-    height: 3%;
+    width: 8%;
+    height: 6%;
     padding: 1% 0.5% 1% 0.5%;
     float: left;
 }
 
 #Logos #LogoCR{
-    width: 6%;
-    height: 3%;
+    width: 9%;
+    height: 6%;
     padding: 1% 0.5% 1% 0.5%;
     float: right;
 }
