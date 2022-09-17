@@ -19,7 +19,7 @@ body{
 }
 
 #Principal header{
-    height: 10%;
+    height: 100px;
     display: inline;
 }    
 
@@ -34,7 +34,7 @@ body{
 
 #Principal header #Foto{
     float: right;
-    width: 10%;
+    width: 80px;
     margin-top: 0.5%;
     margin-right: 1%;
 }
@@ -80,15 +80,15 @@ nav a:hover{
 }
 
 #Logos #LogoUTN{
-    width: 200px;
-    height: 150px;
+    width: 150px;
+    height: 90px;
     padding: 1% 0.5% 1% 0.5%;
     float: left;
 }
 
 #Logos #LogoCR{
-    width: 250px;
-    height: 150px;
+    width: 150px;
+    height: 900px;
     padding: 1% 0.5% 1% 0.5%;
     float: right;
 }
