@@ -19,7 +19,8 @@ body{
 }
 
 #Principal header{
-    height: 80px;
+    height: auto;
+    display: inline;
 }    
 
 #Principal header h1{
