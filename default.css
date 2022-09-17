@@ -32,14 +32,6 @@ body{
     color: black;
 }
 
-#Principal header #Foto{
-    float: right;
-    width: 80px;
-    height: 80px;
-    margin-top: 0.5%;
-    margin-right: 1%;
-}
-
 h1{
     color: black;
 }
@@ -84,14 +76,14 @@ nav a:hover{
     width: 85px;
     height: 90px;
     padding: 1% 0.5% 1% 0.5%;
-    float: left;
+    float: right;
 }
 
-#Logos #LogoCR{
+#Logos #Foto{
     width: 120px;
     height: 90px;
     padding: 1% 0.5% 1% 0.5%;
-    float: right;
+    float: left;
 }
 
 #Lista{
