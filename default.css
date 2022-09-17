@@ -19,7 +19,7 @@ body{
 }
 
 #Principal header{
-    height: 100px;
+    height: 90px;
     display: inline;
 }    
 
@@ -81,14 +81,14 @@ nav a:hover{
 }
 
 #Logos #LogoUTN{
-    width: 150px;
+    width: 85px;
     height: 90px;
     padding: 1% 0.5% 1% 0.5%;
     float: left;
 }
 
 #Logos #LogoCR{
-    width: 150px;
+    width: 120px;
     height: 90px;
     padding: 1% 0.5% 1% 0.5%;
     float: right;
