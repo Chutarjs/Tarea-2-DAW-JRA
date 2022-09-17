@@ -13,18 +13,18 @@ body{
 
 #Principal{
     background-color: white;
-    margin-top: 50px;
+    margin-top: 5%;
     margin-left: 5%;
     margin-right: 5%;
 }
 
 #Principal header{
-    height: 100px;
+    height: 10%;
     display: inline;
 }    
 
 #Principal header h1{
-    font-size: 40px;
+    font-size: 5%;
     letter-spacing: -1px;
     padding-top: 5%;
     padding-left: 2%;
